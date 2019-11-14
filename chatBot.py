@@ -1,4 +1,5 @@
-#1st nov
+#original and written by RUDRA SHAH
+#This code shouldn't be reproduce without legal permission
 
 import random
 
